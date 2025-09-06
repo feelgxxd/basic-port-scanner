@@ -1,5 +1,5 @@
-#REQUIREMENTS 
-```pip install pyfiglet```
+# REQUIREMENTS 
+# ```pip install pyfiglet```
 
 You can easily edit the source and customize it according to your needs. You can find the detailed post about it on my [website](https://berkbeken.xo.je/2025/08/30/making-a-port-scanner-with-python)
 
